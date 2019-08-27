@@ -1,0 +1,26 @@
+# 设置tomcat访问端口
+server:
+  port: 8888  # 注意冒号后面必须有一个空格
+
+ # 设置生成日志
+logging:
+  path: logs  # 日志路径
+  file: userManager.log  # 日志名称
+
+# 设置spring相关
+spring:
+  application:
+    name: userManager  # application名称
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver  # JDBC驱动程序的完全限定名
+    url: jdbc:mysql://localhost:3306/course?serverTimezone=GMT%2B8  # 指定时间使用东8区的
+    username: root  # 数据库用户名
+    password: 123456  # 数据库密码
+
+# 设置mybatis
+mybatis:
+  type-aliases-package: com.course.model  # 包的路径，设置在什么路径下，搜索Java Bean
+  mapper-locations:  # mapper路径
+    - mapper/*  # 加载mapper/下面的所有xml文件
+
+

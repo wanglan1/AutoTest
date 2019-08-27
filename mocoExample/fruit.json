@@ -1,0 +1,14 @@
+[
+  {
+    "description": "mock例1",
+    "request": {
+      "uri": "/test"
+    },
+    "response": {
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      },
+      "text": "moco例子响应，你好呀"
+    }
+  }
+]

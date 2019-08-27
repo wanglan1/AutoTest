@@ -1,0 +1,76 @@
+2019-08-23 19:12:40.525 [main] INFO  com.course.Application - Starting Application on DESKTOP-AO63SNB with PID 11436 (D:\wang\javaCode\muke\AutoTest\Chapter11\target\classes started by Elon in D:\wang\javaCode\muke\AutoTest)
+2019-08-23 19:12:40.530 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2019-08-23 19:12:40.937 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2019-08-23 19:12:41.296 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-08-23 19:12:41.310 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-23 19:12:41.311 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-23 19:12:41.421 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-23 19:12:41.421 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 851 ms
+2019-08-23 19:12:41.745 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-23 19:12:41.854 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2019-08-23 19:12:41.902 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2019-08-23 19:12:41.904 [main] INFO  com.course.Application - Started Application in 1.663 seconds (JVM running for 2.957)
+2019-08-23 19:19:57.902 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-23 19:19:57.902 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-23 19:19:57.907 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-08-23 19:22:19.990 [Thread-6] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2019-08-23 19:22:19.991 [Thread-6] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-23 19:22:27.636 [main] INFO  com.course.Application - Starting Application on DESKTOP-AO63SNB with PID 21296 (D:\wang\javaCode\muke\AutoTest\Chapter11\target\classes started by Elon in D:\wang\javaCode\muke\AutoTest)
+2019-08-23 19:22:27.639 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2019-08-23 19:22:28.045 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2019-08-23 19:22:28.391 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-08-23 19:22:28.412 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-23 19:22:28.413 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-23 19:22:28.523 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-23 19:22:28.523 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 846 ms
+2019-08-23 19:22:28.830 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-23 19:22:28.930 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2019-08-23 19:22:28.978 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2019-08-23 19:22:28.980 [main] INFO  com.course.Application - Started Application in 1.65 seconds (JVM running for 2.602)
+2019-08-23 19:22:39.138 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-23 19:22:39.138 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-23 19:22:39.142 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-08-23 19:22:42.118 [Thread-6] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2019-08-23 19:22:42.118 [Thread-6] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-23 19:22:49.747 [main] INFO  com.course.Application - Starting Application on DESKTOP-AO63SNB with PID 16140 (D:\wang\javaCode\muke\AutoTest\Chapter11\target\classes started by Elon in D:\wang\javaCode\muke\AutoTest)
+2019-08-23 19:22:49.750 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2019-08-23 19:22:50.129 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2019-08-23 19:22:50.439 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-08-23 19:22:50.451 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-23 19:22:50.451 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-23 19:22:50.559 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-23 19:22:50.560 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 781 ms
+2019-08-23 19:22:50.779 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-23 19:22:50.913 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2019-08-23 19:22:50.952 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2019-08-23 19:22:50.954 [main] INFO  com.course.Application - Started Application in 1.418 seconds (JVM running for 2.279)
+2019-08-23 19:23:06.920 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-23 19:23:06.920 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-23 19:23:06.924 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-08-23 19:23:33.481 [main] INFO  com.course.Application - Starting Application on DESKTOP-AO63SNB with PID 17976 (D:\wang\javaCode\muke\AutoTest\Chapter11\target\classes started by Elon in D:\wang\javaCode\muke\AutoTest)
+2019-08-23 19:23:33.483 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2019-08-23 19:23:33.872 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2019-08-23 19:23:34.209 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-08-23 19:23:34.225 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-23 19:23:34.225 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-23 19:23:34.338 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-23 19:23:34.338 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 831 ms
+2019-08-23 19:23:34.552 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-23 19:23:34.681 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2019-08-23 19:23:34.720 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2019-08-23 19:23:34.722 [main] INFO  com.course.Application - Started Application in 1.43 seconds (JVM running for 2.277)
+2019-08-23 19:23:41.049 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-23 19:23:41.050 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-23 19:23:41.053 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2019-08-23 19:26:32.868 [main] INFO  com.course.Application - Starting Application on DESKTOP-AO63SNB with PID 20396 (D:\wang\javaCode\muke\AutoTest\Chapter11\target\classes started by Elon in D:\wang\javaCode\muke\AutoTest)
+2019-08-23 19:26:32.870 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2019-08-23 19:26:33.270 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2019-08-23 19:26:33.589 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-08-23 19:26:33.601 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-23 19:26:33.601 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-23 19:26:33.709 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-23 19:26:33.709 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 807 ms
+2019-08-23 19:26:33.927 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-23 19:26:34.058 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2019-08-23 19:26:34.099 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2019-08-23 19:26:34.100 [main] INFO  com.course.Application - Started Application in 1.444 seconds (JVM running for 2.317)
