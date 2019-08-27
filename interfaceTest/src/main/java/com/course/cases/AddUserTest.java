@@ -15,7 +15,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
-@Log4j
+
 public class AddUserTest {
 
     //执行这个用例，前提需要登录成功！
@@ -34,7 +34,7 @@ public class AddUserTest {
         //验证返回结果
         session.commit();
         User user = session.selectOne("addUser", addUserCase); //sql：查看新增加的user
-        System.out.println("请求接口后，user表中新增的user为：" + user.toString());
+//        System.out.println("请求接口后，user表中新增的user为：" + user.toString());
 
         //处理结果，判断返回结果是否符合预期
         Assert.assertEquals(addUserCase.getExpected(), result);
